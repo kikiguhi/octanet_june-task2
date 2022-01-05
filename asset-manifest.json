@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first_todo_app/static/css/main.67740be0.css",
+    "main.js": "/first_todo_app/static/js/main.be07d0ed.js",
+    "static/js/787.a8b24334.chunk.js": "/first_todo_app/static/js/787.a8b24334.chunk.js",
+    "index.html": "/first_todo_app/index.html",
+    "main.67740be0.css.map": "/first_todo_app/static/css/main.67740be0.css.map",
+    "main.be07d0ed.js.map": "/first_todo_app/static/js/main.be07d0ed.js.map",
+    "787.a8b24334.chunk.js.map": "/first_todo_app/static/js/787.a8b24334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67740be0.css",
+    "static/js/main.be07d0ed.js"
+  ]
+}
